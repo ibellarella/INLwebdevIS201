@@ -1,0 +1,85 @@
+p{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color:rgb(0, 126, 167)
+}
+body{
+    background-color:rgb(238, 247, 247);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border: 5px solid rgb(0, 50, 73); 
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    color: black;
+}
+ol{
+    list-style-position: inside;
+}
+ul{
+    list-style-position: inside;
+}
+/*this is a comment*/
+.common{
+    text-align: center;
+    font-family:'Times New Roman', Times, serif
+    
+}
+.header{
+    height: 100px;
+    background-color: rgb(154, 209, 212);
+    color: rgb(0, 50, 73);
+    line-height: 100px;
+}
+.mainbody{
+    background-color:rgb(238, 247, 247);
+    text-decoration: underline;
+    font-size: 30px;
+    color:rgb(	0, 50, 73);
+}
+.footer{
+    background-color: rgb(154, 209, 212);
+    color: rgb(	0, 50, 73);
+    height: 25px;
+    position: fixed;
+    bottom: 0px;
+    right: 5px;
+    left: 5px;
+}
+nav{
+    background-color: rgb(0, 126, 167);
+    padding: 1px;
+    overflow: hidden;
+}
+nav a{
+    float:left;
+    color:black;
+    padding: 10px 13px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+}
+nav a:hover{
+    background-color: rgb(0, 50, 73);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
